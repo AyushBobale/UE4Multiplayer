@@ -16,6 +16,6 @@ Real Time Text Chat
 ![](https://github.com/AyushBobale/UE4Multiplayer/blob/main/Screenshots/Chat.PNG?raw=true)
 
 Tab Menu with Scores
-![](https://github.com/AyushBobale/UE4Multiplayer/blob/main/Screenshots/TabMenu.PNG?raw=true)
+![](https://github.com/AyushBobale/UE4Multiplayer/blob/main/Screenshots/TabMenu.png?raw=true)
 
 
